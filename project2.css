@@ -1,0 +1,278 @@
+/* .sec2{
+   background-image: url(brisket.jpg);
+ padding: 100px 0;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.btn{
+    height: 50px;
+    width: 150px;
+    margin: auto;
+}
+.sec3{
+    background-color: black;
+     height: 300px; 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 100px 0;
+}
+.h1{
+    text-align: center;
+    color: burlywood;
+    font-style: normal;
+    font-size: 150px;
+}
+p{
+    
+    color: white;
+    font-style: italic;
+    font-size: 25px;
+     margin: 30px; 
+}
+
+.line1{
+    width: 40%;
+    height: 1px;
+    background-color: #ae8648;
+    padding-top: 2px;
+    margin-left: auto;
+   
+}
+.line2{
+    width: 60%;
+    height: 1px;
+    background-color: #ae8648;
+    padding-top: 2px;
+   margin-left: auto;
+}
+.line3{ 
+    width: 40%;
+    height: 2px;
+    background-color: #ae8648;
+  
+}
+
+.line4{
+    width: 60%;
+    height: 2px;
+    background-color: #ae8648; 
+}
+.logo{
+    height: 230px;
+   
+
+}
+
+.LO{
+    color: burlywood;
+    
+    
+    text-align: center;
+    margin-top: 200px;
+    font-style: normal;
+    font-size: 120px;
+}
+.sec4{
+    background-image: url(rest.jpg);
+    height: 700px;
+    text-align: center;
+   
+}
+.btn2{
+    height: 40px;
+    width: 100px;
+}
+.line{
+    width: 80%;
+    height: 2px;
+    background-color: burlywood;
+    margin: auto;
+}
+.P1{
+    font-style: italic;
+    margin-top: 20px;
+}
+.btn3{
+    height: 40px;
+    width: 200px;
+    
+    
+}
+.sec5{
+    background-image: url(cat.jpg);
+    background-size: cover;
+    text-align: center;  
+  
+}
+.box2{
+    background-color: rgba(0, 0, 0, 0.274);
+      padding: 100px 0;
+}
+.CA{
+    font-style: normal;
+    font-size: 120px;
+    color: burlywood;
+}
+.p2{
+    font-style: italic; 
+    margin-top: 10px; 
+}
+.sec6{
+    background-image: url(back.jpg);
+  
+    background-size: cover;
+   
+}
+.box{
+    background-color: rgb(7, 7, 7);
+    opacity: 0.5;
+      padding: 100px 0;
+}
+.sec7{
+    background-image: url(4\ RI.jpg);
+    background-size: cover;
+   
+    
+}
+.p7{
+    font-style: normal;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 110px;
+    color: burlywood;
+}
+.p77{
+    color: burlywood;
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+}
+.P777{
+     color: rgb(255, 255, 255);
+}
+.line7{
+    height: 2px;
+    width: 60%;
+    background-color: burlywood;
+    margin: auto;
+}
+.sec8{
+    background-image: url(burg.jpg);
+    padding: 100px 0;
+    background-size: cover;
+    text-align: center;
+ }
+ .logo2{
+    padding: 25px;
+ }
+ .L1{
+
+    color: burlywood;
+    text-align: center;
+    font-size: 110px;
+    padding: auto;    
+ }
+ .bu{
+    height: 300px;
+    width: 300px;
+    background-color:white ; 
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: auto;
+    padding: 30px 0;
+    text-align: center;
+ }
+ .sec9{
+    background-image: url(insides.jpg);
+   
+    background-size: cover;
+ }
+ .box1{
+     padding: 100px 0;
+    background-color: rgba(7, 7, 7, 0.568);
+    opacity: 0.8;
+ }
+ .sec10{
+    background-image: url(cook.jpg);
+     padding: 100px 0;
+    background-size: cover;
+    text-align: center;
+ }
+ .h22{
+    text-align: center;
+    color: aliceblue;
+    padding-top: 150px;
+    font-size: 80px;
+ }
+.karun{
+    background-color: black;
+    width: 50%;
+    height: 3px;
+    margin: auto;
+    
+}
+.k{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.sec11{
+    background-color: black;
+   padding: 100px 0;
+}
+.kbox{
+    background-image: url(wall.jpg);
+    background-size: cover;
+    background-position: center;
+   
+   padding: 80px 0;
+    margin-top: 50px;
+}
+.kbox2{
+    padding-top: 50px;
+}
+.kbox3{
+    padding-top: 50px;
+}
+.kbox4{
+    padding-top: 50px;
+}
+.sec12{
+    background-color: rgb(54, 58, 58);
+    padding: 20px 0;
+}
+.icons{
+    text-align:right ;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.copy{
+    margin-top: 20px;
+
+}
+.links li a{
+    color: white;
+    text-decoration: none;
+}
+
+@media(max-width:992px){
+.line1,.line2,.line3,.line4{
+    margin: auto;
+}
+.h1{
+     font-size: 100px;
+}
+.LO,.CA{
+    font-size: 80px;
+}
+.s7{
+    background-color: rgba(0, 0, 0, 0.459);
+     padding: 50px 0;
+}
+}
+@media(max-width:576px){
+    .kbox2,.kbox3,.kbox4{
+   text-align: center;
+}
+} */

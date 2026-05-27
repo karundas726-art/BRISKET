@@ -1,0 +1,45 @@
+
+.box1{
+    width:200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin:15px;
+    box-shadow: 10px 10px 20px black;
+    }
+.box2{
+    width:200px;
+    height: 200px;
+    background-color: rgb(226, 156, 43);
+    margin:15px;
+    border-radius: 20px;
+    }
+.box3{
+    width:200px;
+    height: 200px;
+    background-color: rgb(51, 189, 53);
+    margin:15px;
+    border-radius: 30px 10px 25px 5px;
+    } 
+.box4{
+    width:200px;
+    height: 200px;
+    background-color: rgb(226, 43, 92);
+    margin:15px;
+    border-radius: 50%;
+        }
+       
+.box5{
+    width:200px;
+    height:200px;
+    background-color: rgb(43, 226, 211);
+    margin:15px;
+    transform: rotate(40deg);
+        } 
+.box6{
+    width:200px;
+    height: 200px;
+    background-color: rgb(80, 226, 43);
+    margin:15px;
+    transform: skew(20deg);
+}
+
